@@ -1,0 +1,12 @@
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\bin\Debug\PtesteMetodos.exe.config
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\bin\Debug\PtesteMetodos.exe
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\bin\Debug\PtesteMetodos.pdb
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csprojResolveAssemblyReference.cache
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Form1.resources
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Properties.Resources.resources
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csproj.GenerateResource.Cache
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.exe
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.pdb
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Formexer2.resources
+c:\users\0030482121008\documents\visual studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Formexer5.resources
+C:\Users\0030482121008\Documents\Visual Studio 2013\Projects\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Formexer3.resources
