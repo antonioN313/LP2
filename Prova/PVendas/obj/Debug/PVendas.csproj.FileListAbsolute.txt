@@ -1,0 +1,9 @@
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\bin\Debug\PVendas.exe.config
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\bin\Debug\PVendas.exe
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\bin\Debug\PVendas.pdb
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\obj\Debug\PVendas.csprojResolveAssemblyReference.cache
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\obj\Debug\PVendas.Form1.resources
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\obj\Debug\PVendas.Properties.Resources.resources
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\obj\Debug\PVendas.csproj.GenerateResource.Cache
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\obj\Debug\PVendas.exe
+c:\users\0030482121008\documents\visual studio 2013\Projects\PVendas\PVendas\obj\Debug\PVendas.pdb
